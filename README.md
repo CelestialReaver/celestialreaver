@@ -9,7 +9,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Sets 
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,11 +69,15 @@
 <br/>  
 
 
-## Connect with me  
+## Connect With and Support Me 
 <div align="center">
-<!-- <a href="https://github.com/celestialreaver" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> -->
-<img src="https://dcbadge.vercel.app/api/shield/859547769798656001?theme=discord-inverted&logoColor=presence" />
+<a href="https://github.com/celestialreaver" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
+<img src=https://dcbadge.vercel.app/api/shield/859547769798656001?theme=discord-inverted&logoColor=presence style="margin-bottom: 10px;" />
+<a href="https://www.buymeacoffee.com/celestialreaver" target="_blank">
+  <img src=https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge style="margin-bottom: 10px;" />
+</a>
+<br/>
 </a>  
 </div>  
   
