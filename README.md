@@ -73,7 +73,7 @@
 <div align="center">
 <!-- <a href="https://github.com/celestialreaver" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> -->
-<img src="https://dcbadge.vercel.app/api/shield/859547769798656001?theme=default-inverted&logoColor=presence" />
+<img src="https://dcbadge.vercel.app/api/shield/859547769798656001?theme=?theme=clean-inverted&logoColor=presence" />
 </a>  
 </div>  
   
