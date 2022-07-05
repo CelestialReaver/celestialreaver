@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm CelestialReaver - I do a lot of things. I develop games, cybersecurity defense/offense tools, and bots.</div>  
+### <div align="center">I develop games, cybersecurity defense/offense tools, themes, plugins, create bots, and roast coffee.</div>  
   
 
 <br/>  
