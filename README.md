@@ -75,6 +75,7 @@
 <a href="https://github.com/celestialreaver" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
 <img src=https://dcbadge.vercel.app/api/shield/859547769798656001?theme=discord-inverted&logoColor=presence style="margin-bottom: 10px;" />
+<a href="https://ko-fi.com/T6T7DUWZX"" target="_blank"><img src=https://ko-fi.com/img/githubbutton_sm.svg>
 <a href="https://www.buymeacoffee.com/celestialreaver" target="_blank">
   <img src=https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge style="margin-bottom: 10px;" />
 </a>
