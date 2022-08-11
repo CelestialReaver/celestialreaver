@@ -8,6 +8,10 @@
 
 <br/>  
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/859547769798656001?theme=dark&bg=&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/859547769798656001)
+
+<br/>
+
 
 ## My Skill Sets 
 <table><tr><td valign="top" width="33%">
