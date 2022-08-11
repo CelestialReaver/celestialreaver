@@ -8,7 +8,7 @@
 
 <br/>  
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/859547769798656001?theme=dark&bg=&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/859547769798656001)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/859547769798656001?theme=dark&bg=&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/859547769798656001)
 
 <br/>
 
