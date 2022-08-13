@@ -8,7 +8,9 @@
 
 <br/>  
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/859547769798656001?theme=dark&bg=&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/859547769798656001)
+<div align="center">
+<img src="https://lanyard-profile-readme.vercel.app/api/859547769798656001?theme=dark&bg=&animated=false&hideDiscrim=false&borderRadius=30px" alt="CelestialReaver's DIscord Status" />
+
 
 <br/>
 
